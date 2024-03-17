@@ -1,0 +1,6 @@
+.venv/
+**/*.tif
+test.py
+bact_dataset/**
+!bact_dataset/.gitkeep
+__pycache__/

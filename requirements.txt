@@ -1,0 +1,10 @@
+datasets
+transformers
+monai
+torch
+torchvision
+tqdm
+numpy
+pillow
+tifffile[all]
+pyometiff
